@@ -37,7 +37,7 @@ the most challenging part was keeping track of controllers for various views.
 
 ### App Walkthrough GIF
 
-<img src="Yhttp://g.recordit.co/TcIcvQGudq.gif" width=250><br>
+<img src="http://g.recordit.co/TcIcvQGudq.gif" width=250><br>
 
 ### Notes
 Understanding embedding navigation view instead of making one at start was a little confusing
